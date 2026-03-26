@@ -20,9 +20,9 @@ go get [github.com/4CHILL3S101/handleErr@v1.0.0](https://github.com/4CHILL3S101/
 
 ```
 
-```bash
 
 ## Usage Example
+```bash
 Basic Error Handling
 The CheckErr function returns a boolean indicating if an error occurred, and a string formatted for the user.
 
