@@ -21,7 +21,7 @@ go get github.com/4CHILL3S101/handleErr
 
 or if specific version. you can do
 
-go get [github.com/4CHILL3S101/handleErr@v1.0.0](https://github.com/4CHILL3S101/handleErr@v1.0.0)
+go get github.com/4CHILL3S101/handleErr@v1.0.0
 
 ```
 
