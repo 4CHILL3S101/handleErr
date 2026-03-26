@@ -18,14 +18,11 @@ A lightweight Go utility for structured error handling. It simplifies the proces
 ```bash
 go get [github.com/4CHILL3S101/handleErr@v1.0.0](https://github.com/4CHILL3S101/handleErr@v1.0.0)
 
+```
 
+```bash
 
-
-
-
-
-
-Usage Example
+## Usage Example
 Basic Error Handling
 The CheckErr function returns a boolean indicating if an error occurred, and a string formatted for the user.
 
@@ -50,27 +47,25 @@ func main() {
     fmt.Println("Success!") 
 }
 
+```
 
 
-
-Development vs. Production
+## Development vs. Production
+```bash
 Development Mode (true): Prints the stack trace and internal error details to the console for easier debugging.
 
 Production Mode (false): Silently handles the error and only returns the high-level message for the user.
+```
 
 
 
+## Versioning
 
-Versioning
 This library follows Semantic Versioning: vMAJOR.MINOR.PATCH.
 
 To pin a specific version:
-
+```bash
 go get [github.com/4CHILL3S101/handleErr@v1.0.0](https://github.com/4CHILL3S101/handleErr@v1.0.0)
+```
 
 
-
-
-
-Maintainer
-Maintained by 4CHILL3S101. Thank you for using handleErr!
