@@ -54,7 +54,6 @@ func main() {
 
 ```
 
-
 ## Development vs. Production
 ```bash
 Development Mode (true): Prints the stack trace and internal error details to the console for easier debugging.
