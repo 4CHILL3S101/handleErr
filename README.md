@@ -37,7 +37,7 @@ package main
 import (
     "errors"
     "fmt"
-    "[github.com/4CHILL3S101/handleErr](https://github.com/4CHILL3S101/handleErr)"
+    "get github.com/4CHILL3S101/handleErr@v1.0.0"
 )
 
 func main() {
